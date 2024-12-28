@@ -1,0 +1,5 @@
+title: "My Hugo Site"
+description: "A simple site built with Hugo"
+baseurl: ""  # Nếu sử dụng subpath, ví dụ: "/myrepo"
+url: "https://kabutozex.github.io/"  # URL của bạn, thay username bằng tên tài khoản GitHub
+theme: "themes/hugo-profile-moi"  # Chọn theme bạn muốn sử dụng\

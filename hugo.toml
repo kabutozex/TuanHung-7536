@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://github.com/kabutozex/TuanHung-7536'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme ='hugo-profile-moi'
